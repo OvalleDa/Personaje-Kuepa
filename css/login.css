@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&family=Roboto&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 :root{
     --dark-color: rgb(97, 94, 94);
@@ -13,6 +13,7 @@
 
 body{
     font-family: "Montserrat", sans-serif;
+    font-weight: bold;
     color: var(--dark-color);
     background-image: url(../img/fondo.png);
     background-size: cover;
@@ -58,7 +59,7 @@ p{
     text-align: center;
     color: white;
     text-shadow: 0 0 30px #fff;
-    box-shadow: 0 0 20px rgb(171, 68, 255);
+    box-shadow: 5px 7px 20px rgb(171, 68, 255);
 
 
 }
