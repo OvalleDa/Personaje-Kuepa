@@ -69,17 +69,18 @@ h3 {
 
 #boton{
   position: absolute;
-  left: 20px;
+  left: 15px;
   width: 100px;
-  margin-top: -140px;
+  margin-top: -150px;
   float:left;
   cursor: pointer;
-  padding: 9px;
-  font-weight: 50;
+  padding: 6px;
+  font-size: 18px;
+  font-weight: 50px;
   border: none;
   background-color: violet;
   color: white;
-  border-radius: 30px;
+  border-radius: 20px;
   text-shadow: 0 0 30px #fff;
   box-shadow: 0 0 40px rgb(0, 0, 0)
 }

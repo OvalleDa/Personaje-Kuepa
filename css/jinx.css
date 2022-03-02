@@ -70,7 +70,8 @@ button{
   margin-top: 10px;
   cursor: pointer;
   padding: 9px;
-  font-weight: 00;
+  font-weight: 40;
+  font-size: 15px;
   border: none;
   cursor: pointer;
   background-color: violet;
