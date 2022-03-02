@@ -47,7 +47,7 @@ p{
 
 .form-login{
     margin-top: 10px;
-    max-width: 400px;
+    max-width: 300px;
     width: 100%;
     box-shadow: 1px 1px 2px var(--dark-color);
     background-color: var(--pink-color);
@@ -84,31 +84,32 @@ p{
     outline: none;
     border-radius: 20px;
     text-align: center;
+    width: 200px;
+    margin-left: 50px;
 }
 
-.form-input::placeholder{
+.form-input:placeholder{
     font-size: 0.8rem;
 }
 
-.btn-azul,.btn-morado{
+.btn-ingresar,.btn-registrar{
     padding: 0.5rem;
     font-weight: 500;
-    border-radius: 50px;
+    border-radius: 10px;
     cursor: pointer;
+    width: 200px;
+    margin-left: 60px;
 }
 
-.btn-azul{
+.btn-ingresar{
     background-color: #8f29be;
     color: #fff;
-    text-shadow: 0 0 30px #fff;
-    box-shadow: 0 0 20px rgb(171, 68, 255);
+
 }
 
-.btn-morado{
+.btn-registrar{
     background-color: #8f29be;
-    text-shadow: 0 0 30px #fff;
-    box-shadow: 0 0 20px rgb(171, 68, 255);
-    color: var(--white-color)
+    color: white;
 }
 
 .form-olvido{
