@@ -12,7 +12,7 @@
 }
 
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: var(--dark-color);
     background-image: url(../img/fondo.png);
     background-size: cover;
